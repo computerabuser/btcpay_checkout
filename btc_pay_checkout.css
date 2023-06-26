@@ -24,8 +24,8 @@
  color: #FEB139 !important
 }
 
-.prettydropdown:not(.disabled)>ul.active {
- border-color: #A80038 !important
+.prettydropdown > ul.active > li:not(.label):hover, .prettydropdown > ul.active > li.hover:not(.label), .prettydropdown > ul.active > li:first-child:hover:after{
+background: #A80038 !important;
 }
 
 .separatorGem {
