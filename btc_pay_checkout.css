@@ -8,10 +8,13 @@
 }
 
 .action-button {
- background: #A80038 !important
+ background: #A80038 !important;
+ border-color:   #A80038 !important;
 }
 .action-button:hover{
-   background: #FEB139 !important
+   background: #FEB139 !important;
+  border-color:   #A80038 !important;
+
 }
 
 .powered__by__btcpayserver a {
