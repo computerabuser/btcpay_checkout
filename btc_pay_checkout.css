@@ -44,3 +44,8 @@ background: #A80038 !important;
  background: #A80038 !important;
  color: white !important;
 }
+
+.top-header .timer-row__spinner svg {
+ fill: #A80038 !important;
+}
+
