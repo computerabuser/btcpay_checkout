@@ -49,3 +49,8 @@ background: #A80038 !important;
  fill: #A80038 !important;
 }
 
+
+.timer-row .expiring-soon .timer-row__spinner svg {
+ fill: white !important;
+}
+
