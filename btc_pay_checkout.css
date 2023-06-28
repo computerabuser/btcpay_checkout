@@ -46,11 +46,11 @@ background: #A80038 !important;
 }
 
 .top-header .timer-row__spinner svg {
- fill: #A80038 !important;
+ fill: #A80038;
 }
 
 
-.timer-row .expiring-soon .timer-row__spinner svg {
+.expiring-soon .timer-row__spinner svg {
  fill: white !important;
 }
 
